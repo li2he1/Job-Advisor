@@ -4,5 +4,7 @@
 /Users/li2he1/Documents/workspace/jobadvisor/src/main/java/external/MonkeyLearnClient.java
 /Users/li2he1/Documents/workspace/jobadvisor/src/main/java/rpc/RecommendItem.java
 /Users/li2he1/Documents/workspace/jobadvisor/src/main/java/entity/Item.java
+/Users/li2he1/Documents/workspace/jobadvisor/src/main/java/db/MySQLConnection.java
 /Users/li2he1/Documents/workspace/jobadvisor/src/main/java/rpc/RpcHelper.java
+/Users/li2he1/Documents/workspace/jobadvisor/src/main/java/rpc/ItemHistory.java
 /Users/li2he1/Documents/workspace/jobadvisor/src/main/java/rpc/SearchItem.java
